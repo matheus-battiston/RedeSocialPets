@@ -1,0 +1,7 @@
+.listaDeAmigos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+    flex-wrap: wrap;
+}

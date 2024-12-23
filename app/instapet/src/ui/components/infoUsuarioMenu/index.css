@@ -1,0 +1,19 @@
+.infoUsuarioMenu{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.nomePessoaMenu{
+    padding-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.funcionalidadesMenu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

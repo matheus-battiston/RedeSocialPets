@@ -1,0 +1,4 @@
+.listaDeUsuarios{
+    display: flex;
+    flex-wrap: wrap;
+}

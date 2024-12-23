@@ -1,0 +1,15 @@
+.estiloCardAmigo{
+    width: 400px;
+    height: 200px;
+    background-color: rebeccapurple;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nomeAmigo{
+    padding-left: 30px;
+    color: white;
+    font-size: 30px;
+}

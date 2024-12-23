@@ -1,0 +1,16 @@
+.menuPrincipal{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 250px;
+    background-color: rgb(50,50,50);
+    border-right: 3px solid darkgrey;
+    align-items: center;
+    color: white;
+}
+
+.botaoLogout{
+    padding-bottom: 50px;
+    position: fixed;
+    bottom: 0;
+}

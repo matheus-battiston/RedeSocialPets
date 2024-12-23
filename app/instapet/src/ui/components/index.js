@@ -1,0 +1,10 @@
+export { Background } from './background/background.component';
+export { ContainerLogin } from './containerLogin/containerLogin.component';
+export { FormLogin } from './formLogin/formLogin.component';
+export { Menu } from './menu/menu.component';
+export { InfoUsuarioMenu } from './infoUsuarioMenu/infoUsuarioMenu.component';
+export { PedidosAmizadeRecebidos } from './pedidosAmizadeRecebidos/pedidosAmizadeRecebidos.component';
+export { Posts } from './posts/posts.component';
+export { ContainerPost } from './containerPost/containerPost.component';
+export { BotaoTexto } from './botaoTexto/botaoTexto.component';
+export { ModalPostar } from './modalPost/modalPostar.component';

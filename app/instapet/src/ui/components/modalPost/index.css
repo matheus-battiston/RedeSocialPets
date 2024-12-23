@@ -1,0 +1,16 @@
+.label-form-post{
+    color: white;
+}
+
+.estilo-input{
+    height: 40px;
+}
+
+.espaco-select{
+    margin-top: 20px;
+    background-color: rgb(20,20,20);
+    border-radius: 10px;
+    width: 200px;
+    color: white;
+    height: 30px;
+}
